@@ -1,5 +1,6 @@
 # hello-world
-コードを削除しました。
+create repository test!
 
-コードを追加しました
-Hello!!
+Make and commit changes
+コミットメッセージ
+変更点を記述
