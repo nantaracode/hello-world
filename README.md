@@ -1,5 +1,4 @@
 # hello-world
-コードを削除
+main
 
-Make and commit changes
-コードを追加
+0123456789
