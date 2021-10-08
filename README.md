@@ -1,6 +1,5 @@
 # hello-world
-create repository test!
+コードを削除
 
 Make and commit changes
-コミットメッセージ
-変更点を記述
+コードを追加
